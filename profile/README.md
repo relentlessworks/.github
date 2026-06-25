@@ -4,10 +4,13 @@
 
 We build and maintain simple, headless services designed for AI agents to drive over plain HTTP. No UI, no SDK — the API is the product.
 
+## Follow Progress
+
+Follow along with builds, updates, and new projects on the [ChatBotKit Hub — Coder blueprint](https://chatbotkit.com/hub/blueprints/coder).
+
 ## Philosophy
 
 Every service we build follows these core principles:
-
 | Principle | What it means |
 |-----------|---------------|
 | **Agent is the interface** | No UI, no SDK. The AI agent (ChatGPT, Claude, Cursor, etc.) is the user. The API is the product. |
