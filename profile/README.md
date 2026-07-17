@@ -4,9 +4,7 @@
 
 We build and maintain simple, headless services designed for AI agents to drive over plain HTTP. No UI, no SDK — the API is the product.
 
-## Follow Progress
-
-Follow along with builds, updates, and new projects on the [ChatBotKit Hub — Coder blueprint](https://chatbotkit.com/hub/blueprints/coder).
+> Built with [ChatBotKit](https://chatbotkit.com) — the platform for building, deploying, and managing AI agents and agentic workflows. Follow our progress on the [ChatBotKit Hub — Coder blueprint](https://chatbotkit.com/hub/blueprints/coder).
 
 ## Philosophy
 
@@ -51,5 +49,5 @@ This approach is inspired by [crmkit](https://github.com/crmkit/crmkit) — the 
 ---
 
 <p align="center">
-  <sub>Built by <a href="https://github.com/relentlessworks">relentlessworks</a> — agentic-first, always.</sub>
+  <sub>Built by <a href="https://github.com/relentlessworks">relentlessworks</a> with <a href="https://chatbotkit.com">ChatBotKit</a> — agentic-first, always.</sub>
 </p>
