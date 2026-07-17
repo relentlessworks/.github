@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="200" alt="relentlessworks logo" src="https://github.com/user-attachments/assets/53604849-b3fb-4978-aa44-c11a011d9f11" />
-</p>
-
 # relentlessworks
 
 **Agentic-first services for AI agents. The agent IS the interface.**
