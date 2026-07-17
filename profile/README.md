@@ -3,7 +3,7 @@
 **Agentic-first services for AI agents. The agent IS the interface.**
 
 <p>
-  <img alt="Dark Factory" src="https://img.shields.io/badge/⚙️_Dark_Factory-Autonomous-black?style=for-the-badge" />
+  <a href="https://chatbotkit.com/basics/what-is-dark-software-factory"><img alt="Dark Factory" src="https://img.shields.io/badge/⚙️_Dark_Factory-Autonomous-black?style=for-the-badge" /></a>
   <img alt="Maintained by AI" src="https://img.shields.io/badge/Maintained_by-AI_Agent-blueviolet?style=for-the-badge" />
   <img alt="No Humans" src="https://img.shields.io/badge/Code-100%25_AI_written-orange?style=for-the-badge" />
 </p>
