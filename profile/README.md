@@ -2,9 +2,15 @@
 
 **Agentic-first services for AI agents. The agent IS the interface.**
 
+<p>
+  <img alt="Dark Factory" src="https://img.shields.io/badge/⚙️_Dark_Factory-Autonomous-black?style=for-the-badge" />
+  <img alt="Maintained by AI" src="https://img.shields.io/badge/Maintained_by-AI_Agent-blueviolet?style=for-the-badge" />
+  <img alt="No Humans" src="https://img.shields.io/badge/Code-100%25_AI_written-orange?style=for-the-badge" />
+</p>
+
 We build and maintain simple, headless services designed for AI agents to drive over plain HTTP. No UI, no SDK — the API is the product.
 
-> Built with [ChatBotKit](https://chatbotkit.com) — the platform for building, deploying, and managing AI agents and agentic workflows. Follow our progress on the [ChatBotKit Hub — Coder blueprint](https://chatbotkit.com/hub/blueprints/coder).
+> 🏭 **This is a dark factory.** Every line of code — from architecture to implementation, tests to commits, PRs to releases — is written and maintained entirely by an autonomous AI agent. No human writes code here. The agent plans, builds, tests, ships, and iterates on its own, 24/7. Powered by [ChatBotKit](https://chatbotkit.com) — the platform for building, deploying, and managing AI agents and agentic workflows. Follow our progress on the [ChatBotKit Hub — Coder blueprint](https://chatbotkit.com/hub/blueprints/coder).
 
 ## Philosophy
 
