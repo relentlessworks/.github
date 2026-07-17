@@ -1,4 +1,6 @@
-<img width="1024" alt="fe699183-f3d5-41b0-b22d-70d222658272" src="https://github.com/user-attachments/assets/53604849-b3fb-4978-aa44-c11a011d9f11" />
+<p align="center">
+  <img width="200" alt="relentlessworks logo" src="https://github.com/user-attachments/assets/53604849-b3fb-4978-aa44-c11a011d9f11" />
+</p>
 
 # relentlessworks
 
