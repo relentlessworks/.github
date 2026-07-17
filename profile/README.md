@@ -11,6 +11,7 @@ Follow along with builds, updates, and new projects on the [ChatBotKit Hub — C
 ## Philosophy
 
 Every service we build follows these core principles:
+
 | Principle | What it means |
 |-----------|---------------|
 | **Agent is the interface** | No UI, no SDK. The AI agent (ChatGPT, Claude, Cursor, etc.) is the user. The API is the product. |
@@ -29,6 +30,9 @@ Every service we build follows these core principles:
 | Project | Description | Status |
 |---------|-------------|--------|
 | [LinkSmith](https://github.com/relentlessworks/linksmith) | Agentic-first link shortener | Active |
+| [TaskPilot](https://github.com/relentlessworks/taskpilot) | Agentic-first task management | Active |
+| [Notable](https://github.com/relentlessworks/notable) | Agentic-first notes & knowledge base | Active |
+| [HookRelay](https://github.com/relentlessworks/hookrelay) | Agentic-first webhook relay & inspection | Active |
 
 *More projects coming soon.*
 
